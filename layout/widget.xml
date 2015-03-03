@@ -1,0 +1,9 @@
+<hc>
+    <box width="20">
+        <icon id="icon" icon="off" />
+    </box>
+    <box width="90">
+        <label id="name" style="bold" text="---" />
+    </box>
+    <label id="value" />
+</hc>
