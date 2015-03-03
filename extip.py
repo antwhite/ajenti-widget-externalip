@@ -4,7 +4,7 @@ from ajenti.api import plugin
 from ajenti.plugins.dashboard.api import DashboardWidget
 
 @plugin
-class HelloWidget (DashboardWidget):
+class ExternalIPWidget (DashboardWidget):
     name = _('External Ip')
     icon = 'exchange'
 
